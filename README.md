@@ -1,3 +1,7 @@
+
+
+
+
 <!-- Seu Nome -->
 # Olá, eu sou o Brian 👋
 
@@ -15,12 +19,23 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender coi
 ## 🌱 Atualmente Estou Aprendendo
 
 Estou estudando Desenvolvimento web Java pelo Instituto Proa.
+Aprende sobre:
+- UI/UX
+- HTML/CSS
+
+Estou aprendendo sobre:
+
+- JavaScript
+- Java
+- SQL
+
+---
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian3720)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 💬 Vamos Conversar!
 
 Estou sempre aberto a novas oportunidades de colaboração e a conhecer novos colegas da área. Vamos trocar ideias!
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-lima-a013b81b7/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
-
-<!-- Adicione mais seções conforme necessário -->
