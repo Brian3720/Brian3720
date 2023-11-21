@@ -1,11 +1,18 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6347&height=120&section=header"/>
 
 
 
 <!-- Seu Nome -->
-# Olá, eu sou o Brian 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA07A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Brian+Lima;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender coisas novas.
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Brian3720&show_icons=true&count_private=true&hide_border=true&title_color=FF7F50&icon_color=FF7F50&text_color=FFF&bg_color=0d1117" alt="Brian Lima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian3720&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=FFA07A" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brian3720&bg_color=0d1117&color=FF6347&line=FFA07A&point=FF7F50&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -30,12 +37,16 @@ Estou aprendendo sobre:
 - SQL
 
 ---
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoyceS1lva}/count.svg" /></p> 
+<br>
+</div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian3720)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 💬 Vamos Conversar!
 
 Estou sempre aberto a novas oportunidades de colaboração e a conhecer novos colegas da área. Vamos trocar ideias!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-lima-a013b81b7/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6347&height=120&section=footer"/>
